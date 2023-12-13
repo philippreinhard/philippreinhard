@@ -1,5 +1,14 @@
-### Hi there 👋
+### 🚀 Hi, I'm Philipp Reinhard! 👋
 
+🎓 I hold a double degree in Business Informatics and Entrepreneurship and Innovation Management 📚 with a focus on human-centered and sustainable Artificial Intelligence. My academic journey at the Technical University of Darmstadt delved deep into the ethical and sustainable aspects of AI and NLP and its impact on the future of work and society.
+
+👨‍💼 Throughout my professional tenure, I've contributed to IT-driven process optimizations, enterprise-level AI initiatives, and sustainable AI projects. This includes work at renowned organizations such as Campana & Schott and the Institute for Ecological Economy Research (IÖW) in Berlin.
+
+💡 Research Interests: Human-AI Collaboration, Conversational AI, Service Science, Sustainable AI, Digital Work, Agile Organization, IT Project Management, and Software Development.
+
+📝 My contributions include publications at prestigious conferences like HICSS and DESRIST, focusing on sustainable AI practices, hybrid intelligence systems, and value co-creation in AI systems.
+
+Feel free to connect and delve deeper into the realms of technology, innovation, and sustainable AI with me! 🌐
 <!--
 **philippreinhard/philippreinhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
